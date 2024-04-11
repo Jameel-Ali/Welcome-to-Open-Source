@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Jameel-Ali">
+                    <img src="https://avatars.githubusercontent.com/u/144138446?v=4" width="100px;" alt="Jameel Ali"/>
+                    <br />
+                    <sub><b>Jameel Ali</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
